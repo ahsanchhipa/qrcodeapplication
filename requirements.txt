@@ -1,3 +1,5 @@
 streamlit
-qrcode
+pyodbc
 reportlab
+qrcode
+pillow
